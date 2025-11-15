@@ -1,5 +1,10 @@
+<div align="center">
+  
+<h2><strong>HELLO WORLD (👋) It's me Luja a tech enthusiast who wants to excel in this tech realm.<strong><h2>
 
-## 🌐 Socials:
+</div>
+
+  ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ctrlaltdefeat_2025) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luzza.png) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luja-thapa-39a7402b8/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/thapa_luja) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lujathapa22@gmail.com) 
 
 # 💻 Tech Stack:
