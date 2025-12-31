@@ -1,6 +1,6 @@
 <div align="center">
   
-<h2><strong>HELLO WORLD (👋) It's me Luja a tech enthusiast who wants to excel in this tech realm.</strong></h2>
+<h2><strong>HeYLoooo IT's [LUJA], she says -- Past the abstraction, trust nothing by default.</strong></h2>
 
 </div>
 
