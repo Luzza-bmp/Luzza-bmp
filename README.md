@@ -18,4 +18,8 @@
 </table>
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luzza-bmp">
 
+
+ <img src="https://raw.githubusercontent.com/Luzza-bmp/Luzza-bmp/output/snake.svg" alt="Snake animation" />
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
