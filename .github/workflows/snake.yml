@@ -12,11 +12,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: Platane/snk/svg-only@v3
+      - name: Generate snake (dark mode)
+        uses: Platane/snk@v3
         with:
           github_user_name: Luzza-bmp
           outputs: |
-            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark&background=000000
 
       - name: Push snake animation
         uses: crazy-max/ghaction-github-pages@v4
