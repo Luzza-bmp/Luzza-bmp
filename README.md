@@ -20,4 +20,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Luzza-bmp&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
+</table>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=erwinschrodinger1">
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
