@@ -1,9 +1,6 @@
-<div align="center">
-  
-<h2><strong>HeYLoooo IT's [LUJA], she says -- Past the abstraction, trust nothing by default.</strong></h2>
+<img src="https://github.com/user-attachments/assets/b3217439-b541-424e-87c6-e1044cdba866" width="100%" />
 
-</div>
-
+ 
   ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ctrlaltdefeat_2025) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luzza.png) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luja-thapa-39a7402b8/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/thapa_luja) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lujathapa22@gmail.com) 
 
