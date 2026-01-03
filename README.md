@@ -1,5 +1,7 @@
 <img src="https://github.com/user-attachments/assets/d5d1ccca-163c-455b-a7b5-720ac03ee60e" width="100%" />
 
+<img align="right" height="180" src="https://i.imgflip.com/65efzo.gif" />
+
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ctrlaltdefeat_2025)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luzza.png)
@@ -12,13 +14,20 @@
 ## 💻 Tech Stack
 
 ### 🧠 Languages
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="24" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="24" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="24" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="24" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="24" />  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="24" />  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="24" />  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="24" />
 
 ### 🌐 Web & Runtime
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="24" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="24" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="36" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="24" />  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="24" />  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="36" />
 
 ### 🎨 Tools & Design
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" width="26" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="24" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" width="24" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" width="26" />  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="24" />  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" width="24" />
 
 ---
 
