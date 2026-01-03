@@ -1,19 +1,22 @@
 <img src="https://github.com/user-attachments/assets/d5d1ccca-163c-455b-a7b5-720ac03ee60e" width="100%" />
 
+<div align="center">
+
 ## 🌐 Socials
+
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ctrlaltdefeat_2025)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luzza.png)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luja-thapa-39a7402b8/)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/thapa_luja)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lujathapa22@gmail.com)
 
+</div>
+
 ---
 
 ## 💻 Tech Stack
 
-<div align="center">
-
-<img src="https://github.com/user-attachments/assets/8e34e738-43a4-460a-b88b-ca5c6d1fb48d" height="220" />
+<img align="right" src="https://github.com/user-attachments/assets/8e34e738-43a4-460a-b88b-ca5c6d1fb48d" height="220" />
 
 ### 🧠 Languages
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="24" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="24" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="24" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="24" />
@@ -24,7 +27,7 @@
 ### 🎨 Tools & Design
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" width="26" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="24" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" width="24" />
 
-</div>
+<br clear="right"/>
 
 ---
 
