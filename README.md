@@ -12,9 +12,14 @@
 
 </div>
 
----
 
-## 💻 Tech Stack
+
+<div align="center">
+
+  ## 💻 Tech Stack
+
+  </div>
+
 
 <img align="right" src="https://github.com/user-attachments/assets/8e34e738-43a4-460a-b88b-ca5c6d1fb48d" height="220" />
 
@@ -29,26 +34,48 @@
 
 <br clear="right"/>
 
----
+
+
+<div align="center">
+
 
 ## 📊 GitHub तथ्याङ्क
+
 ![](https://github-readme-stats.vercel.app/api?username=Luzza-bmp&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Luzza-bmp&theme=dark&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luzza-bmp&theme=dark&hide_border=false&layout=compact)
 
----
+</div>
+
+
+<div align="center">
+
 
 ## ✍️ अनियमित देव उद्धरण
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
+</div>
+
+
+<div align="center">
 
 ## 📈 योगदान ग्राफ
+
+</div>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luzza-bmp&theme=react-dark" />
 
----
+
+
+
+<div align="center">
+
 
 ## 🐍 योगदान सर्प
+
+</div>
+
 <img src="https://raw.githubusercontent.com/Luzza-bmp/Luzza-bmp/output/snake-dark.svg" alt="Snake animation" />
