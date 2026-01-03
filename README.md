@@ -64,9 +64,10 @@
 
 ## 📈 योगदान ग्राफ
 
-</div>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luzza-bmp&theme=react-dark" />
+
+</div>
 
 
 
