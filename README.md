@@ -11,7 +11,9 @@
 
 ## 💻 Tech Stack
 
-<img align="right" src="https://github.com/user-attachments/assets/8e34e738-43a4-460a-b88b-ca5c6d1fb48d" height="220" />
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/8e34e738-43a4-460a-b88b-ca5c6d1fb48d" height="220" />
 
 ### 🧠 Languages
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="24" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="24" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="24" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="24" />
@@ -22,7 +24,7 @@
 ### 🎨 Tools & Design
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" width="26" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="24" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" width="24" />
 
-<br clear="right"/>
+</div>
 
 ---
 
