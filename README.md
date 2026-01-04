@@ -23,13 +23,13 @@
 
 <img align="right" src="https://github.com/user-attachments/assets/8e34e738-43a4-460a-b88b-ca5c6d1fb48d" height="220" />
 
-### 🧠 Languages
+###  Languages
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="24" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="24" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="24" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="24" />
 
-### 🌐 Web & Runtime
+###  Web & Runtime
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="24" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="24" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="36" />
 
-### 🎨 Tools & Design
+###  Tools & Design
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" width="26" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="24" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" width="24" />
 
 <br clear="right"/>
@@ -72,11 +72,5 @@
 
 
 
-<div align="center">
 
 
-## 🐍 योगदान सर्प
-
-</div>
-
-<img src="https://raw.githubusercontent.com/Luzza-bmp/Luzza-bmp/output/snake-dark.svg" alt="Snake animation" />
