@@ -2,75 +2,76 @@
 
 <div align="center">
 
-## 🌐 Socials
+### `whoami`
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ctrlaltdefeat_2025)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luzza.png)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luja-thapa-39a7402b8/)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/thapa_luja)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lujathapa22@gmail.com)
+A developer who thinks in systems,  
+writes in logic,  
+and plans in silence.
 
 </div>
 
+---
 
+## 🧠 System Profile
 
-<div align="center">
+<table>
+<tr>
+  <td><b>USER</b></td>
+  <td><code>luzza</code></td>
+</tr>
+<tr>
+  <td><b>ROLE</b></td>
+  <td><code>developer | problem-solver</code></td>
+</tr>
+<tr>
+  <td><b>CORE_LOOP</b></td>
+  <td><code>think → build → break → optimize</code></td>
+</tr>
+<tr>
+  <td><b>INTERESTS</b></td>
+  <td><code>{ coding, idea_generation, business_models }</code></td>
+</tr>
+<tr>
+  <td><b>THINKING_MODEL</b></td>
+  <td><code>if (idea) → execute(); else → refactor_mind();</code></td>
+</tr>
+<tr>
+  <td><b>LANGUAGE</b></td>
+  <td><code>logic > syntax</code></td>
+</tr>
+<tr>
+  <td><b>BUSINESS_VIEW</b></td>
+  <td><code>value = problem × scale</code></td>
+</tr>
+<tr>
+  <td><b>STATUS</b></td>
+  <td><code>learning, building, iterating</code></td>
+</tr>
+</table>
 
-  ## 💻 Tech Stack
+---
 
-  </div>
+while (alive) {
+    learn();
+    build();
+    question_everything();
+}
 
+📡 Connect (if signal is strong)
 
-<img align="right" src="https://github.com/user-attachments/assets/8e34e738-43a4-460a-b88b-ca5c6d1fb48d" height="220" />
+Discord: ctrlaltdefeat_2025
 
-###  Languages
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="24" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="24" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="24" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="24" />
+LinkedIn: luja thapa
 
-###  Web & Runtime
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="24" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="24" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="36" />
+Email: lujathapa22@gmail.co
 
-###  Tools & Design
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" width="26" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="24" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" width="24" />
+## 🛠 Execution Stack
 
-<br clear="right"/>
+```txt
+Python     → automation & thinking
+C / C++    → control & performance
+JavaScript → interaction & reach
+Node.js   → backend logic
 
-
-
-<div align="center">
-
-
-## 📊 GitHub तथ्याङ्क
-
-![](https://github-readme-stats.vercel.app/api?username=Luzza-bmp&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Luzza-bmp&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luzza-bmp&theme=dark&hide_border=false&layout=compact)
-
-</div>
-
-
-<div align="center">
-
-
-## ✍️ अनियमित देव उद्धरण
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-</div>
-
-
-<div align="center">
-
-## 📈 योगदान ग्राफ
-
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Luzza-bmp&theme=react-dark" />
-
-</div>
-
-
-
-
-
+m
 
