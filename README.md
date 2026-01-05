@@ -4,10 +4,12 @@
 
 ### `whoami`
 
+[INIT] Loading profile...
+
 A developer who thinks in systems  
 and builds with intent.
 
-I like breaking problems down  
+I break problems down  
 until they confess their logic.
 
 I generate ideas, test assumptions,  
@@ -17,6 +19,8 @@ Interested in business not as hype,
 but as **execution multiplied by scale**.
 
 Quiet. Focused. Iterating.
+
+[OK] Profile loaded.
 
 </div>
 
@@ -55,33 +59,34 @@ Quiet. Focused. Iterating.
 </tr>
 </table>
 
+---
 
+## 📡 Connect (if signal is strong)
 
-## 📡 Connect (IF SIGNAL IS STRONG)
-
-Discord   → ctrlaltdefeat_2025
-
-LinkedIn  → luja thapa
-
-Email     → lujathapa22@gmail.com
-
-
+```txt
+[CONNECT] Discord   → ctrlaltdefeat_2025
+[CONNECT] LinkedIn  → luja thapa
+[CONNECT] Email     → lujathapa22@gmail.com
+```
 
 ## 🛠 Execution Stack
+```txt
 
-Python     → automation & logic
-C / C++    → control & fundamentals
-JavaScript → interaction & reach
-Node.js   → backend systems
 
+[LOAD] Python      → automation & logic
+[LOAD] C / C++     → control & fundamentals
+[LOAD] JavaScript  → interaction & reach
+[LOAD] Node.js     → backend systems
+[OK] Stack initialized
+
+
+```
 
 ## 🧩 Runtime Philosophy
 
 ```c
-while (alive) {
-    learn();
-    build();
-    question_everything();
-}
-
-
+ while (alive) {
+     learn();
+     build();
+     question_everything();
+ }
