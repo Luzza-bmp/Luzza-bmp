@@ -13,7 +13,7 @@ I break problems down
 until they confess their logic.
 
 I generate ideas, test assumptions,  
-and treat code as leverage — not decoration.
+and treat code as leverage, not decoration.
 
 Interested in business not as hype,  
 but as **execution multiplied by scale**.
