@@ -4,9 +4,19 @@
 
 ### `whoami`
 
-A developer who thinks in systems,  
-writes in logic,  
-and plans in silence.
+A developer who thinks in systems  
+and builds with intent.
+
+I like breaking problems down  
+until they confess their logic.
+
+I generate ideas, test assumptions,  
+and treat code as leverage — not decoration.
+
+Interested in business not as hype,  
+but as **execution multiplied by scale**.
+
+Quiet. Focused. Iterating.
 
 </div>
 
@@ -29,49 +39,49 @@ and plans in silence.
 </tr>
 <tr>
   <td><b>INTERESTS</b></td>
-  <td><code>{ coding, idea_generation, business_models }</code></td>
+  <td><code>{ coding, idea_generation, business }</code></td>
 </tr>
 <tr>
   <td><b>THINKING_MODEL</b></td>
-  <td><code>if (idea) → execute(); else → refactor_mind();</code></td>
-</tr>
-<tr>
-  <td><b>LANGUAGE</b></td>
-  <td><code>logic > syntax</code></td>
+  <td><code>if (idea) execute(); else refactor_mind();</code></td>
 </tr>
 <tr>
   <td><b>BUSINESS_VIEW</b></td>
-  <td><code>value = problem × scale</code></td>
+  <td><code>value = problem × execution</code></td>
 </tr>
 <tr>
   <td><b>STATUS</b></td>
-  <td><code>learning, building, iterating</code></td>
+  <td><code>learning | building | iterating</code></td>
 </tr>
 </table>
 
----
 
+
+## 📡 Connect (IF SIGNAL IS STRONG)
+
+Discord   → ctrlaltdefeat_2025
+
+LinkedIn  → luja thapa
+
+Email     → lujathapa22@gmail.com
+
+
+
+## 🛠 Execution Stack
+
+Python     → automation & logic
+C / C++    → control & fundamentals
+JavaScript → interaction & reach
+Node.js   → backend systems
+
+
+## 🧩 Runtime Philosophy
+
+```c
 while (alive) {
     learn();
     build();
     question_everything();
 }
 
-📡 Connect (if signal is strong)
-
-Discord: ctrlaltdefeat_2025
-
-LinkedIn: luja thapa
-
-Email: lujathapa22@gmail.co
-
-## 🛠 Execution Stack
-
-```txt
-Python     → automation & thinking
-C / C++    → control & performance
-JavaScript → interaction & reach
-Node.js   → backend logic
-
-m
 
