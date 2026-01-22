@@ -9,13 +9,10 @@
 A developer who thinks in systems  
 and builds with intent.
 
-I break problems down  
-until they confess their logic.
-
 Interested in business not as hype,  
 but as **execution multiplied by scale**.
 
-Quiet. Focused. Iterating.
+Focused & Iterating.
 
 [OK] Profile loaded.
 
@@ -40,7 +37,7 @@ Quiet. Focused. Iterating.
 </tr>
 <tr>
   <td><b>INTERESTS</b></td>
-  <td><code>{ coding, idea_generation, business }</code></td>
+  <td><code>{ coding, basketball, reading books, drawing }</code></td>
 </tr>
 <tr>
   <td><b>THINKING_MODEL</b></td>
@@ -61,22 +58,18 @@ Quiet. Focused. Iterating.
 ## 📡 Connect (if signal is strong)
 
 ```txt
-[CONNECT] Discord   → ctrlaltdefeat_2025
-[CONNECT] LinkedIn  → luja thapa
-[CONNECT] Email     → lujathapa22@gmail.com
+ Discord   → ctrlaltdefeat_2025
+ LinkedIn  → luja thapa
+ Email     → lujathapa22@gmail.com
 ```
 
 ## 🛠 Execution Stack
 ```txt
-
-
-[LOAD] Python      → automation & logic
-[LOAD] C / C++     → control & fundamentals
-[LOAD] JavaScript  → interaction & reach
-[LOAD] Node.js     → backend systems
-[OK] Stack initialized
-
-
+ Python      
+ C / C++     
+ JavaScript  
+ Node.js     
+ Stack initialized
 ```
 
 ## 🧩 Runtime Philosophy
